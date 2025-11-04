@@ -1,10 +1,12 @@
 # 👋 Hello! I'm Kuldeep Hawladar
-## Full-Stack Developer & Python Expert | Master of Computer Application (AI/ML)
- 
+
+## Turning Concepts into Code. 💡
+## Full-Stack Developer | Python Expert | M.C.A. (AI/ML) Candidate 🌐
+
 > "The only way to do great work is to love what you do." – Steve Jobs
 ---
 
-# 🌐 Summary & Focus
+### 🌐 Summary & Focus
 
 Motivated and technically proficient Full-Stack Developer with a strong command of **Python** and solid working knowledge of **PHP** and **MySQL**
 have hands-on experience building responsive web applications, integrating APIs, and managing databases.
@@ -13,7 +15,7 @@ have hands-on experience building responsive web applications, integrating APIs,
 - 🌱 **Learning/Growing:** Currently advancing my knowledge in **AI/ML** through my Master of Computer Application in AI/ML and certifications in Generative AI.
 - 🤝 **Seeking:** Opportunities to contribute my skills in full-stack development and leverage my expertise in Python.
 
-# 💻 My Core Technical Toolkit
+### 💻 My Core Technical Toolkit
 
 | Category | Skills & Tools |
 | :--- | :--- |
@@ -27,7 +29,7 @@ have hands-on experience building responsive web applications, integrating APIs,
 
 | **Tools/Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-# ✨ Featured Projects (Code Portfolio)
+### ✨ Featured Projects (Code Portfolio)
 
 #### 1. Task Management System (MERN Stack)
 * **Goal:** A full-stack application for efficient task and user management.
@@ -40,7 +42,7 @@ have hands-on experience building responsive web applications, integrating APIs,
 * **Link:** [View Code on GitHub](https://github.com/Kuldeeph10/Smile_Dental)
 
 ---
-# 📫 Get In Touch
+### 📫 Get In Touch
 
 | Contact | Detail |
 | :--- | :--- |
