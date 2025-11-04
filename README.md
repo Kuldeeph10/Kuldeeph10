@@ -31,22 +31,22 @@ have hands-on experience building responsive web applications, integrating APIs,
 
 #### 1. Task Management System (MERN Stack)
 * **Goal:** A full-stack application for efficient task and user management.
-* **Key Achievements:** Implemented secure user authentication and authorization using **JWT & bcrypt**[cite: 21]. [cite_start]Built a **RESTful API with Express.js** for all CRUD operations[cite: 21].
-* [cite_start]**Link:** [View Code on GitHub](https://github.com/Kuldeeph10/task-manager) [cite: 20]
+* **Key Achievements:** Implemented secure user authentication and authorization using **JWT & bcrypt** & Built a **RESTful API with Express.js** for all CRUD operations.
+* **Link:** [View Code on GitHub](https://github.com/Kuldeeph10/task-manager)
 
 #### 2. Dentist Website Management System (PHP, MySQL)
-* [cite_start]**Goal:** Developed a dynamic, responsive website and management system for a dental clinic[cite: 15].
-* [cite_start]**Key Achievements:** Created a password-protected admin panel for appointment and service control[cite: 16]. [cite_start]Integrated contact forms with email notifications and Google Maps[cite: 17, 18].
-* [cite_start]**Link:** [View Code on GitHub](https://github.com/Kuldeeph10/Smile Dental) [cite: 14]
+* **Goal:** Developed a dynamic, responsive website and management system for a dental clinic.
+* **Key Achievements:** Created a password-protected admin panel for appointment and service control & Integrated contact forms with email notifications and Google Maps.
+* **Link:** [View Code on GitHub](https://github.com/Kuldeeph10/Smile_Dental)
 
 ---
 # 📫 Get In Touch
 
 | Contact | Detail |
 | :--- | :--- |
-| [cite_start]**Email** | kuldeephawladar14@gmail.com [cite: 3] |
-| **Phone** | [cite_start]+91 9302077029 [cite: 3] |
-| **Location** | [cite_start]Kanker, Chhattisgarh, India 🇮🇳 [cite: 3] |
+| **Email** | kuldeephawladar14@gmail.com |
+| **Phone** | +91 9302077029 |
+| **Location** | Raipur, Chhattisgarh, India 🇮🇳 |
 
 <!--
 **Kuldeeph10/Kuldeeph10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
