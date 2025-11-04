@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Kuldeep Hawladar
-## Full Stack Developer & Python Expert 🐍
-
-> "The best way to predict the future is to invent it."
+## Full-Stack Developer & Python Expert | Master of Computer Application (AI/ML)
+ 
+> "The only way to do great work is to love what you do." – Steve Jobs
 ---
 
 # 🌐 Summary & Focus
